@@ -2,14 +2,15 @@
 
 # About Project
 
-
-Prototype App Android VTron Home
+# Prototype
+- App Android VTron Home
 ![screenshot](https://github.com/vtronboard/AppClientHome/blob/master/img/app_home.jpg)
 
-Prototype of the plate that is installed in the home, to control its functionalities.
+# Prototype
+- of the plate that is installed in the home, to control its functionalities.
 ![screenshot](https://github.com/vtronboard/AppClientHome/blob/master/img/placa.jpg)
 
-Prototype mockup.
+# Prototype mockup.
 ![screenshot](https://github.com/vtronboard/AppClientHome/blob/master/img/prototipo_home.jpg)
 
 # Premium/Accreditation
