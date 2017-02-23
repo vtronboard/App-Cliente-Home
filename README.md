@@ -5,7 +5,7 @@ With the advancement of engineering with technology, it has become common to com
 
 # Prototype
 - App Android VTron Home
-![screenshot](https://github.com/vtronboard/AppClientHome/blob/master/img/app_home.jpg)
+![screenshot](https://github.com/vtronboard/AppClientHome/blob/master/img/vtron_home_app_mockup-min.png)
 
 # Prototype
 - of the plate that is installed in the home, to control its functionalities.
